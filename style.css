@@ -358,10 +358,10 @@ section {
 }
 /* Untuk ukuran gambar dalam owner (400x400)*/
 .review-one {
-  background-image: url('images/profile-picture-one.jpeg');
+  background-image: url('profile-picture-one.jpeg');
 }
 .review-two {
-	background-image: url('images/profile-picture-two.jpg');
+	background-image: url('profile-picture-two.jpg');
 }
 .personal-info {
 	padding: 5px 0 20px 0;
